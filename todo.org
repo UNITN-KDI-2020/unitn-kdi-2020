@@ -1,1 +1,0 @@
-- fixed navbar (on wide diplays)
